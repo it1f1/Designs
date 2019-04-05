@@ -1,0 +1,173 @@
+*{
+  padding: 0;
+  margin: 0;
+
+}
+
+h1 {
+  color: #003399;
+  padding-top: 10px;
+  font-size:40px;
+
+}
+
+h3 {
+	color:#003399;
+}
+
+#Container{
+  margin: auto;
+  width:1300px;
+  background-color:white;
+
+
+}
+
+p{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align:
+
+}
+
+.For{
+  padding-top: 50px;
+}
+
+
+.smallText{
+  width: 300px;
+}
+
+.Logo{
+  padding-top: 10px;
+ 
+  text-align:center;
+
+}
+
+
+ul{
+  padding-top: 50px;
+}
+
+
+  .menu{
+  display: inline;
+  padding-right: 10px;
+  
+}
+
+
+
+body{
+  text-align: center;
+  font-family: helvetica;
+  background-color:#c0c8d6;
+
+}
+
+.Description
+{
+  padding-top: 100px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+
+
+.header{
+  padding-top: 50px;
+
+}
+
+.frontImage{
+  text-align: center;
+  height: 350px;
+  width: 1300px;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+.Programs {
+  height: 550px;
+  width: 1000px;
+  text-align: center;
+  padding-top:;
+  padding-bottom:100px;
+  margin: auto;
+
+}
+
+.Picture{
+  width: 330px;
+  height: 275px;
+  float: left;
+  background-color: grey;
+}
+
+
+.Text{
+  width:290px;
+  height: 275px;
+  float: left;
+  background-color:#efeff5;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+
+
+.AboutUs{
+  padding-top: 100px;
+  padding-left: 200px;
+  padding-right: 200px;
+
+}
+
+.Contact
+{
+  height: 400px;
+  width: 1000px;
+  margin: auto;
+
+}
+li.list
+{
+  padding-bottom: 10px;
+}
+
+.addressBox{
+  width:460px;
+  height: 350px;
+  text-align: center;
+  background-color: #efeff5;
+  float: left;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.Form{
+  width:480px;
+  height: 350px;
+  background-color: #efeff5;
+  float: left;
+  text-align: center;
+
+}
+
+textarea {
+  resize: none;
+}
+
+form {
+  padding-top: 55px;
+}
+
+li {
+  list-style-type: none;
+}
